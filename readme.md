@@ -1,8 +1,8 @@
-`Lara`是一款基于`Laravel`框架`6.x`版本开发的个人博客系统，它灵活轻巧，简单易用并易于扩展，适合搭建个人博客或作为企业 CMS 使用。
+是一款基于`Laravel`框架`6.x`版本开发的个人博客系统，它灵活轻巧，简单易用并易于扩展，适合搭建个人博客或作为企业 CMS 使用。
 
-项目地址：[https://github.com/zhangfangsong/Lara](https://github.com/zhangfangsong/Lara) 欢迎star ^_^
-演示地址：[http://lara.zfsphp.com](http://lara.zfsphp.com)
-
+项目地址：[https://github.com/itjpap/laravel_blog_6x](https://github.com/itjpap/laravel_blog_6x) 欢迎star ^_^
+演示地址：[http://blog_6x.mcmaster.pro/](http://blog_6x.mcmaster.pro/)
+后台登录账号密码：admin 123456
 
 V1.0 版本主要特性：
 
@@ -28,6 +28,4 @@ V1.0 版本主要特性：
 
 ![](https://www.zfsphp.com/uploads/images/editor/202008/1598348912.png)
 
-##### 后续开发计划
 
-接下来会完善博客的功能，bug 修复以及基于 Uni-App 开发博客系统 APP。
